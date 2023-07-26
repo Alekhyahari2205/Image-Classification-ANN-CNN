@@ -1,5 +1,5 @@
 # Image-Classification-ANN-CNN
-Considered the cifar10 dataset which includes almost 50,000 images.
+The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 Created a prediction model using Artificial Neural Networks with 3 deep layers using activation functions : Relu and Sigmoid and conducted the evalaution for 5 epochs, still the accuracy was 47% which is not desirable.
 
 Implemented Convolution Neural Networks, with 2 activation functions : Relu and Softmax with 10 epochs and achieved a accuracy of 78% 
